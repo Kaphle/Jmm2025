@@ -1,6 +1,6 @@
 # Jmm2025
 First Repo
-
+Hello
 This is just a first step to know Github <https://github.com/Kaphle/Jmm2025/edit/main/README.md >
 
 def type_of_pow(lhs: float, rhs: float) -> type[complex]:
